@@ -1,7 +1,0 @@
-﻿  Exercicios1.cpp
-C:\Users\Eduardo\source\repos\Exercicios1\Exercicios1\Exercicios1.cpp(17,25): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
-C:\Users\Eduardo\source\repos\Exercicios1\Exercicios1\Exercicios1.cpp(17,20): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
-C:\Users\Eduardo\source\repos\Exercicios1\Exercicios1\Exercicios1.cpp(17,15): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
-C:\Users\Eduardo\source\repos\Exercicios1\Exercicios1\Exercicios1.cpp(59,29): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
-C:\Users\Eduardo\source\repos\Exercicios1\Exercicios1\Exercicios1.cpp(59,23): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
-  Exercicios1.vcxproj -> C:\Users\Eduardo\source\repos\Exercicios1\Debug\Exercicios1.exe
